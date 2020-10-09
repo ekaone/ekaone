@@ -10,9 +10,9 @@
 - ⚡ Fun fact: https://ekaprasetia.com
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekaone&show_icons=true&count_private=true&text_color=24292e&icon_color=24292e&title_color=24292e&hide_border=true&include_all_commits=true&hide_title=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ekaone&show_icons=true&theme=radical">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekaone&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekaone&layout=compact">
 </p>
