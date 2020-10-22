@@ -41,11 +41,11 @@
 <br />
 <br />
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekaone&layout=compact">
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=ekaone&show_icons=true&theme=radical">
 </p>
 
