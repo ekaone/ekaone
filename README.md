@@ -9,7 +9,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: https://ekaprasetia.com
 
-<br />
 
 ### Connect with me:
 
