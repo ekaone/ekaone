@@ -1,4 +1,4 @@
-### Hi there 👋, I am Eka Prasetia
+### Hi there 👋, I am Eka Prasetia 👨‍💻
 
 - 🔭 I’m currently working on Jakarta, Indonesia
 - 🌱 I’m currently learning Web and Mobile Technology
