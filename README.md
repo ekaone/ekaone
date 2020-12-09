@@ -8,6 +8,7 @@
 - 📫 How to reach me: ekaone3033@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: https://ekaprasetia.com
+- 💼 Job role: Ctrl + C and V
 
 
 ### Connect with me:
