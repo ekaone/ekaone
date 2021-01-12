@@ -10,6 +10,8 @@
 - ⚡ Fun fact: https://ekaprasetia.com
 - 💼 Job role: Ctrl + C and V
 
+### Metrics
+![Metrics](https://metrics.lecoq.io/ekaone)
 
 ### Connect with me:
 
