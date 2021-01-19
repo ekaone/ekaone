@@ -7,7 +7,7 @@
 - 💬 Ask me about this repository
 - 📫 How to reach me: ekaone3033@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: https://ekaprasetia.com
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Fun fact: https://ekaprasetia.com
 - 💼 Job role: Ctrl + C and V
 
 ### Metrics
