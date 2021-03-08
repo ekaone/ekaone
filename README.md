@@ -66,6 +66,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ekaone&show_icons=true&theme=radical">
 </p>
 
+<br />
+Visitor counter
+<br>
+<img src="https://profile-counter.glitch.me/ekaone/count.svg" />
 
 [website]: https://ekaprasetia.com
 [twitter]: https://twitter.com/dannyeka
