@@ -1,17 +1,12 @@
 ### Hi there 👋, I am Eka Prasetia 👨‍💻
 
-- 🔭 I’m currently working on Jakarta, Indonesia
 - 🌱 I’m currently learning Web and Mobile Technology
 - 👯 I’m looking to collaborate on Tech Company
-- 🤔 I’m looking for help with Community
 - 💬 Ask me about this repository
-- 📫 How to reach me: ekaone3033@gmail.com
+- 📫 How to reach me: [@dannyeka](https://twitter.com/dannyeka)
 - 😄 Pronouns: He/Him
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Fun fact: https://www.ekapm.dev/
 - 💼 Job role: Ctrl + C and V
-
-### Handcraft
-[Handcraft-portfolio](https://handcraft-portfolio-eka.vercel.app/)
 
 ### Connect with me:
 
