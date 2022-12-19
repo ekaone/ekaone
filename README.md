@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web and Mobile Technology
 - 👯 I’m looking to collaborate on Tech Company
 - 💬 Ask me about this repository
-- 📫 How to reach me: [@dannyeka](https://twitter.com/dannyeka)
+- 📫 How to reach me: [@dannyeka](https://twitter.com/twekaone)
 - 😄 Pronouns: He/Him
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Fun fact: many more happy moments
 - 💼 Job role: Ctrl + C and V
