@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Eka Prasetia 👨‍💻
 
-- 🌱 I’m currently learning Web and Mobile Technology
-- 👯 I’m looking to collaborate on Tech Company
 - 💬 Ask me about this repository
 - 📫 How to reach me: [@twekaone](https://twitter.com/twekaone)
 - 😄 Pronouns: He/Him
