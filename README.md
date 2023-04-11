@@ -64,5 +64,4 @@ Visitor counter
 <br>
 <img src="https://profile-counter.glitch.me/ekaone/count.svg" />
 
-[website]: https://ekaprasetia.com
-[twitter]: https://twitter.com/dannyeka
+[twitter]: https://twitter.com/twekaone
