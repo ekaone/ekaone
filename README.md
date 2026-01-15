@@ -5,9 +5,4 @@
 - 📫 How to reach me: [@twekaone](https://twitter.com/twekaone)
 - 😁 Pronouns: He/Him
 
-<br />
-Visitor counter
-<br>
-<img src="https://profile-counter.glitch.me/ekaone/count.svg" />
-
 [twitter]: https://twitter.com/twekaone
